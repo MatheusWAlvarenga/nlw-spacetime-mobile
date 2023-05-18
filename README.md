@@ -1,8 +1,9 @@
 <h1 align="center">Spacetime Mobile App</h1>
 
 <div align="center">
-<img width="900" alt="Wallpaper" src="https://github.com/MatheusWAlvarenga/nlw-spacetime-web/assets/94935750/13f47ab4-786c-42a4-8a7c-7e071e0db69b">
+<img width="300" alt="Mobile 1 - Wallpaper" src="https://github.com/MatheusWAlvarenga/nlw-spacetime-mobile/assets/94935750/c4b8f74e-5e87-4aaa-b749-de906b813d49">
 </div>
+
 
 <p align="center">The Spacetime Mobile App is the mobile counterpart of the Spacetime project. It allows users to store and cherish memorable moments in a digital time capsule. The mobile app provides a user-friendly interface for capturing, browsing, and managing moments on the go.</p>
 
