@@ -32,8 +32,8 @@ The Spacetime Mobile App is developed using the following technologies:
 
 To get started with the Spacetime Mobile App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/spacetime-mobile.git`
-2. Navigate to the project directory: `cd spacetime-mobile`
+1. Clone the repository: `git clone https://github.com/MatheusWAlvarenga/nlw-spacetime-mobile.git`
+2. Navigate to the project directory: `cd nlw-spacetime-mobile`
 3. Install the dependencies: `npm install`
 4. Configure the API endpoint:
    - Open the `src/api/config.js` file.
