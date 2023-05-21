@@ -1,0 +1,6 @@
+{
+  "xml.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "html.completion.attributeDefaultValue": "singlequotes"
+}
